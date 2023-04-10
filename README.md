@@ -1,2 +1,7 @@
-# 33253311
-Just to store this piece of code
+# go-binance
+
+for Matvey Dergunov Bushmanov
+
+# run
+
+`go run main.go`
